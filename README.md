@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ilian445
 - 📫 How to reach me in Telegram: @giant47.
 - 🔗 https://ilian.tb.ru/
-- Web dev, python dev
+- Зython dev
 
 <!---
 Ilian445/Ilian445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
